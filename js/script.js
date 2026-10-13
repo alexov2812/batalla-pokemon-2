@@ -170,4 +170,5 @@ function combate(atacante, enemigo) {
 
 console.log("COMIENZA LA BATALLA");
 
-combate(pikachu, charizard);
+combate(pikachu, charizard);  
+
